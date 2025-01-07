@@ -223,3 +223,9 @@ Penjelasan:
 - `try-except`: Jika terjadi kesalahan input (misalnya format email salah atau nama mengandung angka), error akan ditangkap dan ditampilkan dengan pesan yang sesuai.
 - `data.add_registration()`: Menambahkan data pendaftaran yang telah divalidasi ke dalam objek `RegistrationData`.
 - `View.display_table()`: Setelah selesai, data ditampilkan dalam bentuk tabel yang rapi menggunakan class `View`.
+
+# Penanganan Error
+Program ini menggunakan `try-except` untuk menangkap kesalahan input. Jika pengguna memasukkan data yang tidak sesuai format (seperti nomor telepon yang mengandung huruf atau email yang tidak lengkap), program akan menampilkan pesan kesalahan yang memberi tahu pengguna tentang masalah tersebut.
+
+# Contoh Output Program
+Berikut adalah contoh output setelah pengguna berhasil memasukkan data:
