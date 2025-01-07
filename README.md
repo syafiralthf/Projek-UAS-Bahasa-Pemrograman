@@ -5,7 +5,7 @@ Kelas: TI.24.A.4
 
 NIM: 312410353
 
-
+# Projek UAS Bahasa Pemrograman
 Program ini adalah aplikasi sederhana untuk sistem pendaftaran booking hotel berbasis terminal. Program ini dibuat dengan pendekatan modular dan menggunakan prinsip OOP (Object-Oriented Programming). Program memungkinkan pengguna untuk memesan hotel, menentukan jenis kamar yang diinginkan, dan menentukan berapa hari mereka akan menginap.
 
 ```python
@@ -229,3 +229,5 @@ Program ini menggunakan `try-except` untuk menangkap kesalahan input. Jika pengg
 
 # Contoh Output Program
 Berikut adalah contoh output setelah pengguna berhasil memasukkan data:
+
+![Cuplikan layar 2025-01-06 122444](https://github.com/user-attachments/assets/d9bca156-462b-4e4d-9837-09c3b5a2ba63)
